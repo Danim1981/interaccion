@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intrfz_nav_e_intracc</string>
+    <string name="texImpLay">Ingresar Contraseña</string>
+    <string name="btnMsj">Mostrar Mensaje</string>
+    <string name="txtview">La contraseña tiene más de 5 caracteres</string>
+
+</resources>
